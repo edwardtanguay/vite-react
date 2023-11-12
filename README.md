@@ -20,4 +20,4 @@
 ## if you want a menu
 
 - [add React Router 6.4 with createBrowseRrouter](https://github.com/edwardtanguay/vite-react-menu-createbrowserrouter) (new, enables data APIs)
-- [add React Router 6.4 with browserRouter](https://github.com/edwardtanguay/vite-react-menu-createbrowserrouter) (old)
+- [add React Router 6.4 with browserRouter](https://github.com/edwardtanguay/vite-react-menu-browserrouter) (old)
