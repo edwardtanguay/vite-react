@@ -7,6 +7,8 @@
 - TypeScript
 - Sass
 - Tailwind
+- ESLint
+- Prettier
 
 ## if you want a menu
 
