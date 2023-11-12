@@ -10,6 +10,11 @@
 - ESLint
 - Prettier
 
+## setup
+
+- `npm i`
+- `npm run dev`
+
 ## if you want a menu
 
 - [add React Router 6.4 with createBrowseRrouter](https://github.com/edwardtanguay/vite-react-menu-createbrowserrouter) (new)
