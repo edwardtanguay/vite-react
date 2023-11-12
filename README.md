@@ -19,5 +19,5 @@
 
 ## if you want a menu
 
-- [add React Router 6.4 with createBrowseRrouter](https://github.com/edwardtanguay/vite-react-menu-createbrowserrouter) (new, enables data APIs)
+- [add React Router 6.4 with createBrowseRrouter](https://github.com/edwardtanguay/vite-react-menu-createbrowserrouter)  - enables the [new data APIs](https://reactrouter.com/en/main/routers/picking-a-router)
 - [add React Router 6.4 with browserRouter](https://github.com/edwardtanguay/vite-react-menu-browserrouter) (old)
