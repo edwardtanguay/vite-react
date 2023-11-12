@@ -1,4 +1,4 @@
-# vite-react-base
+# vite-react
 
 ![grafik](https://github.com/edwardtanguay/vite-react-base/assets/446574/1750b047-c9fa-491c-b94d-e8ef3b81dd73)
 
